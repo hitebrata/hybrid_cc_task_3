@@ -1,12 +1,4 @@
 # variables.tf
-variable "aws_access_key" {
-    type = string
-    default = "AKIAJ7UYKY7TI2K4PE2A"
-}
-variable "aws_secret_key" {
-    type = string
-    default = "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"
-}
 variable "profile" {
     default = "hita"
 }

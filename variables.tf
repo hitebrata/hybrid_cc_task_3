@@ -1,6 +1,6 @@
 # variables.tf
 variable "profile" {
-    default = "hita"
+    default = "NAME_OF_THE_PROFILE"
 }
 variable "aws_region" {
     default = "ap-south-1"
